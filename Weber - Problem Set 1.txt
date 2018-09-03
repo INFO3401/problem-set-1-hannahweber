@@ -1,0 +1,40 @@
+Hannah Weber
+Problem Set #1
+Due: Sept 2 @ 11:59pm
+
+Monday -
+#1: Completed
+#2: Completed
+
+Wednesday - 
+#1: Jacob Paul
+    1. Student at CU Boulder - Daily Camera article (http://www.dailycamera.com/boulder-business/ci_31323749/at-cu-boulder-and-nationwide-new-project-seeks)
+    2. Photographer - Personal website (https://www.jacobpaulphotography.com/)
+    3. Was apart of a research group last year that wanted to speak with people who have a friend with cancer - Facebook
+    4. Had an internship this summer at Kaiser - Linkedin
+    5. Takes pictures on a Canon/ Sony camera - Instagram
+    
+#2: Version Control
+    Scenario #1 - working on a semester long project
+        Problems: noting progress you have made with the assignment, making a mistake that messes up the whole code and not being able to revert to a previous state, losing the code
+        Solutions: everytime you commit you can see the progress you have made, if you do make a bad mistake you can revert your code to a previous version, the code is all stored in a repository outside of your computer
+    Scenario #2 - doing a group assignment where you and a partner are working on the same code
+        Problems: difficult to share the code, difficult to know what progress the other one has made, can’t typically work on the same code at the same time
+        Solutions: Share code through Github and both be able to edit it at the same time, make descriptive commit messages to let your partner know what progress you have made
+    Scenario #3 - Working with a team where you each are tackling different parts of the assignment
+        Problems: difficult to share code/ other files with a group, tough to keep everyone up to date on the progress of the other group members, can’t work on the same files at the same time
+        Solutions: can store all of the files in a shared repository, make detailed commit messages that keep everyone up to date on the progress and edits that are being made, work on the shared files at the same time
+
+#3: Creating a new repository
+    Link: https://github.com/hannahweber/testrepo3401.git
+    
+#4: Merging with Marissa Kelley
+    We are able to commit at the same time but we couldn’t push at the same time. Mine went through but Marissa received an error message that said “the repository has been updated since you last pulled. Try pulling before pushing”. Github then alerted us that merged conflicts were found and to fix this issue you could either branch or fork your repository and then merge the changes later on. A simple solution would also be to just not push at the same time. 
+
+#5: Managing a collaborative project
+    Strategy #1: have different branches for different parts of the project (initial development, rough drafts, final copies)
+        Why this would work?: Keep the different sections of the project separate so it is easier to follow the progress of the project
+    Strategy #2: create a standard naming system for the files and commits 
+        Why this would work?: the group can all be on the same page with the edits and know what is happening each time another group member commits
+    Strategy #3: Make sure that everyone is always committing, pushing, and pulling their work so that people aren’t wasting their time and doubling up on certain steps of the project
+        Why this would work?: The collaboration piece of a version control system like Github is one of the best things about it. It makes collaboration easy and so it is important to always be working on the lastest, most updated parts of the project
